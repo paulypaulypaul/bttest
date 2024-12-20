@@ -2,7 +2,7 @@
 -r requirements-lambda.txt
 botocore==1.35.54
 certifi==2024.7.4
-cffi==1.15.1
+# cffi==1.15.1
 charset-normalizer==3.2.0
 coverage==7.3.0
 cryptography==43.0.1
