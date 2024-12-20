@@ -34,5 +34,5 @@ urllib3==1.26.19
 Werkzeug==3.0.6
 xmltodict==0.13.0
 boto3-stubs[sns,logs]
-anyio>=4.4.0 # not directly required, pinned by Snyk to avoid a vulnerability
+anyio==4.4.0 # not directly required, pinned by Snyk to avoid a vulnerability
 zipp>=3.19.1 # not directly required, pinned by Snyk to avoid a vulnerability
